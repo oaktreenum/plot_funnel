@@ -1,7 +1,7 @@
 # Funnel and Pnear Plotter for Helical Bundle Predictions and FastRelax
 
 ## Description
-This script generates funnel plots and calculates Pnear values from `helical_bundle_predict` and `fastrelax` near-native log files. It is designed to visualize the energy landscape and assess near-native structure quality.
+This script generates funnel plots and calculates Pnear values from `helical_bundle_predict` and near-native `fastrelax` protocols' log files. It is designed to visualize the energy landscape and assess near-native structure quality.
 
 ## Usage
 ```bash
